@@ -1,6 +1,6 @@
 <? /*
 Plugin Name:Super Admin 
-Plugin URI:http://jprocha.info/superadmin
+Plugin URI:http://jprocha.info/
 Description:This is a Super Admin for Wordpress
 Version:1.0
 Author:João Rocha
