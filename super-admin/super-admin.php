@@ -3,8 +3,8 @@ Plugin Name:Super Admin
 Plugin URI:http://jprocha.info/
 Description:This is a Super Admin for Wordpress
 Version:1.0
-Author:João Rocha
-Author URI:http://jprocha.info
+Author:João Pedro Rocha
+Author URI:http://www.jprocha.info
 License:GPLv2
 */?>
 <?php /*  Copyright 2013  João Rocha  (email : mail@jprocha.info)
